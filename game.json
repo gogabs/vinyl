@@ -1,0 +1,12 @@
+{
+  "id": "vinyl",
+  "name": "Vinyl",
+  "description": "Ouça audiolivros e músicas do cartão: retoma de onde parou, marcadores, velocidade e timer para dormir.",
+  "version": "0.1.0",
+  "contract": 1,
+  "runtime": "python3",
+  "exec": "main.py",
+  "languages": ["pt-BR"],
+  "tags": ["a11y", "apps"],
+  "author": "Gabs"
+}

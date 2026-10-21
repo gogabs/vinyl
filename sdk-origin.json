@@ -1,0 +1,22 @@
+{
+  "repository": "gogabs/r36s-a11y-sdk",
+  "commit": "a2dade231a5f680a6a02aba601f6846daa4cdf9b",
+  "sha256": {
+    "menu.py": "bd5afc92f9c7f2c131e3ecf66fee077b4538f2ee5857df2d43cc67c875dde4d0",
+    "pc.py": "64127d172b38e7ff9ec7213f851cd9e560a5daebfea945030eef54a11d9dd3e0",
+    "audio.py": "71ba76f82cf51ff759d0c9b64978b24e2da66e572407292b47b72f6333f8e133",
+    "native.py": "cdb619a4e0ea3a828451efdb61361f9c85a9537439f052c3b7b00996861c96bf",
+    "ears.py": "d5c61fcab891f93b92bde47b742c92902e9e03abc09390380ecd8249fcc0b638",
+    "__init__.py": "6fe9ee311f1ae0c7a9e94fdd4aff6084e5161883040ff8a7fff5c5954be0c4ef",
+    "actions.py": "618949ffe32006e7106b76902ad73de2640a38ffd160617efb575e007824e650",
+    "streaming.py": "f0c74aafb61a6a033b986402f0ff016c5ff00fe4fd6036227464261d8c086f01",
+    "sndfile.py": "291c88cc2223821d79d67eb0e7a949e983b62ba6fdd3226b28fe5ccc20e4aa14",
+    "speech.py": "62cb886ffb86a30a6bb066abbc60be1de4e1a698183ee32067f9b2976e10bae0",
+    "buttons.py": "c7763030c1c5e2d13574214c5b1d7d7fcc5826c3c7f1f5db8aa8b94dadb89696",
+    "game.py": "7a6fca72aa50a518ae67479826351c35599bdc4382bfc9286a9b32fa980634a2",
+    "speech_history.py": "7fd0c055249e49fee142f5207df0d15e0a4fb28d80d7ac0de49403b6812a40a4",
+    "desktop.py": "df37a6f24ce30ee21d644f5956e20b06e445793bf4ea5470e546adc562fcfbf5",
+    "input.py": "974d0f87bfbcee86b233b255f7ff2ed141f1b7925416b05c839f997ffb9f9fac",
+    "graphics.py": "423125d99abc3d0c8382bd591ac3dac9f3ff33ab5be74c834b6fcb3a80931fab"
+  }
+}
